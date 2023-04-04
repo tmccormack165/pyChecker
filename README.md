@@ -8,3 +8,8 @@ pyChecker.py: The only necessary file for playing the game, requires this file: 
 
 graphics.py: A user-friendly graphics library for Python
 
+# Usage
+
+```
+python pyChecker.py
+```
